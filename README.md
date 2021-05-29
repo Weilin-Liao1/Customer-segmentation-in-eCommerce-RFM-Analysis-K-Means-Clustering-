@@ -1,6 +1,10 @@
 # eCommerce_Customer_Segmentations
 
 
+(pic.customer seg.)![image](https://user-images.githubusercontent.com/82377749/120067383-9c41cb00-c07b-11eb-9aa8-a6f9cbe1a3c6.png)
+
+
+
 ## Introduction and Tools 
 
 **Customer Segmentation**
