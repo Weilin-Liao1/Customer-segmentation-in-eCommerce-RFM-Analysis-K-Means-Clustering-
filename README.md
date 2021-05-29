@@ -1,4 +1,4 @@
-# eCommerce_Customer_Segmentations
+# eComerce_customer_segmentation
 
 
   ![image](https://user-images.githubusercontent.com/82377749/120067553-9a2c3c00-c07c-11eb-96ab-148e8b602353.png)
