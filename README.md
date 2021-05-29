@@ -1,7 +1,7 @@
 # eCommerce_Customer_Segmentations
 
 
-(pic.customer seg.)![image](https://user-images.githubusercontent.com/82377749/120067383-9c41cb00-c07b-11eb-9aa8-a6f9cbe1a3c6.png)
+  ![image](https://user-images.githubusercontent.com/82377749/120067553-9a2c3c00-c07c-11eb-96ab-148e8b602353.png)
 
 
 
@@ -64,6 +64,7 @@ Therefore, I will create two sub-projects, one only applying the traditional RFM
 ## Data and references
 
 **Data:**
+
 It is usually to find e-commerce data sets in public data as they are usually proprietary. 
 However, the <a href="https://archive.ics.uci.edu/ml/datasets/online+retail "> UCI Machine Learning Repository</a>   produced this data set containing actual transactions in 2010 and 2011. The data set is maintained on their website and can be found under the title "Online Retail". This is a multinational data set that contains all the transactions that occurred between 01/12/2010 and 09/12/2011 for non-store online retail registered in the UK. The company mainly sells unique all-occasion gifts. Many The client companies are wholesalers.  
 
@@ -74,17 +75,12 @@ However, the <a href="https://archive.ics.uci.edu/ml/datasets/online+retail "> U
 - Correia, J. (2020, June 2). How RFM Analysis Boosts Sales: Blast Analytics &amp; Marketing. Blast Analytics. https://www.blastanalytics.com/blog/rfm-analysis-boosts-sales. 
 - RFM Segmentation: RFM Analysis, Model, Marketing &amp; Software. Optimove. (2020, May 25). https://www.optimove.com/resources/learning-center/rfm-segmentation. 
 
+
 **Python Version:** 3.8.3
 
-**Packages:** pandas, numpy, sklearn, matplotlib, seaborn, pickle
+**Packages:** pandas, numpy, sklearn, matplotlib, seaborn, squarify, datetime
 
-**Modules:** StandardScaler, KMeans, PCA, LogisticRegression, LinearRegression
-
-
-
-
-
-
+**Modules:** StandardScaler, KMeans, pyplot, date
 
 
 
