@@ -1,9 +1,8 @@
 # eComerce_customer_segmentation
 
+![image](https://user-images.githubusercontent.com/82377749/120203241-c932e100-c227-11eb-98d3-cb53519ab998.png)
 
-  ![image](https://user-images.githubusercontent.com/82377749/120067553-9a2c3c00-c07c-11eb-96ab-148e8b602353.png)
-
-
+Image source: <a href="https://www.neenopal.com/RFM-analysis.html"> neenopal.com </a>
 
 ## Introduction and Tools 
 
@@ -66,7 +65,7 @@ Therefore, I will create two sub-projects, one only applying the traditional RFM
 **Data:**
 
 It is usually to find e-commerce data sets in public data as they are usually proprietary. 
-However, the <a href="https://archive.ics.uci.edu/ml/datasets/online+retail "> UCI Machine Learning Repository</a>   produced this data set containing actual transactions in 2010 and 2011. The data set is maintained on their website and can be found under the title "Online Retail". This is a multinational data set that contains all the transactions that occurred between 01/12/2010 and 09/12/2011 for non-store online retail registered in the UK. The company mainly sells unique all-occasion gifts. Many The client companies are wholesalers.  
+However, the <a href="https://archive.ics.uci.edu/ml/datasets/online+retail "> UCI Machine Learning Repository</a> produced this data set containing actual transactions in 2010 and 2011. The data set is maintained on their website and can be found under the title "Online Retail". This is a multinational data set that contains all the transactions that occurred between 01/12/2010 and 09/12/2011 for non-store online retail registered in the UK. The company mainly sells unique all-occasion gifts. Many The client companies are wholesalers.  
 
 
 **Reference:** 
