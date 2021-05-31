@@ -44,6 +44,10 @@ The choice of these methods is usually subjective, and not all marketers conside
 
 **K-means Clustering**
 
+![image](https://user-images.githubusercontent.com/82377749/120203694-49f1dd00-c228-11eb-9531-00c7ba2ee9b8.png)
+
+Image source: <a href="https://rpubs.com/cyobero/k-means"> rpubs.com </a>
+
 K-means clustering starts by randomly assigning n customers to K clusters and gradually improves the partition by changing the cluster membership of each customer. 
 
 In more details, given a user-specified number of clusters k, the algorithm starts by randomly selecting k points among the n customers that become the centre of the initial cluster. According to the Euclidean distance, each remaining customer is assigned to one of the k cluster centres. After grouping all customers into k clusters, a new cluster "centre" will be calculated, usually as the average value of each cluster variable in each set. And then, based on the distance from these new cluster centres, redistribute each topic. We will stop the iteration when no more redistribution occurs.
