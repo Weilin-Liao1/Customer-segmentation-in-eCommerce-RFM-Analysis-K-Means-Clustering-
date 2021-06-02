@@ -21,7 +21,8 @@ Customer segmentation in marketing can be used in the following areas:
 - **Allocate resources more efficiently** based on the potential return from each segment.
 - **Prioritize marketing plans** aimed at retaining customers and development according to each segment's importance. 
 
-**RFM analysis**
+**RFM analysis:**
+
 RFM analysis is a popular approach to understand customer buying behaviour. 
 It involves three database marketing metrics: Recency (R), frequency (F) and monetary value (M) : 
  
