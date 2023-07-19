@@ -1,10 +1,9 @@
 # eComerce Customer Segmentation
 
 <img width="350" alt="segmentation " src="https://github.com/Weilin-Liao1/sql_projects/assets/82377749/a083eae1-de52-4878-a2fa-ae2e82e8d57b">
-![image](https://user-images.githubusercontent.com/82377749/120203241-c932e100-c227-11eb-98d3-cb53519ab998.png)
 
 Image source: <a href="https://shorturl.at/mzPR5"> mybizmarketer </a>
-Image source: <a href="https://www.neenopal.com/RFM-analysis.html"> neenopal.com </a>
+
 
 ## Introduction and Tools 
 
