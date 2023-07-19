@@ -9,7 +9,7 @@ Image source: <a href="https://shorturl.at/mzPR5"> mybizmarketer </a>
 
 **Customer Segmentation**
 
-Customer segmentation is the process of dividing customers into several homogeneous clusters based on various attributes. Therefore customers in the same group are similar in demographic or behavioural characteristics, but customers in different sets are distinct. It is used as a differentiation marketing tool enabling firms to understand their customers and develop differentiated strategies based on their characteristics.
+Customer segmentation is the process of dividing customers into several homogeneous clusters based on various attributes. Therefore customers in the same group are similar in demographic or behavioral characteristics, but customers in different sets are distinct. It is used as a differentiation marketing tool enabling firms to understand their customers and develop differentiated strategies based on their characteristics.
 
 Customer segmentation in marketing can be used in the following areas:
 
@@ -18,14 +18,14 @@ Customer segmentation in marketing can be used in the following areas:
 - **Creation of customized product offering strategies to existing customers** according to each segment's identified needs.
 - **Provide tailored rewards and incentives.**
 - **Choose appropriate advertisements and exchange information and channels.**
-- Select differentiate customer service based on the importance of each segment.
+- Select differentiated customer service based on the importance of each segment.
 - **Allocate resources more efficiently** based on the potential return from each segment.
 - **Prioritize marketing plans** aimed at retaining customers and development according to each segment's importance. 
 
 **RFM analysis:**
 
-RFM analysis is a popular approach to understand customer buying behaviour. 
-It involves three database marketing metrics: Recency (R), frequency (F) and monetary value (M) : 
+RFM analysis is a popular approach to understand customer buying behavior. 
+It involves three database marketing metrics: Recency (R), frequency (F), and monetary value (M) : 
  
  - **Recency:** The time when the customer recently purchased the product
  - **Frequency:** The frequency of customer purchases
@@ -40,7 +40,7 @@ Segmentation is the process of grouping customers based on similarity, while clu
 
 Clustering uses machine learning and algorithms to identify how different types of data are related and create new segments based on these relationships. Clustering discovers relationships between data points so that they can be segmented. Its purpose is only to divide the subject into several homogeneous groups. 
 
-Several algorithms are available for clustering, and they are roughly divided into hierarchical and nonhierarchical clustering techniques. Hierarchical clustering is classified into two categories: agglomerative and the divisive method. Further, non-hierarchical clustering contains three submethods: K-means clustering, probabilistic clustering, and self-organizing maps. 
+Several algorithms are available for clustering, and they are roughly divided into hierarchical and nonhierarchical clustering techniques. Hierarchical clustering is classified into two categories: agglomerative and divisive method. Further, non-hierarchical clustering contains three submethods: K-means clustering, probabilistic clustering, and self-organizing maps. 
 
 The choice of these methods is usually subjective, and not all marketers consider one to be the optimal set of options. The choice of method usually depends on the question – are the results useful? This approach will be further discussed as the K-means is seen as the most popular clustering method among data miners. 
 
@@ -52,13 +52,13 @@ Image source: <a href="https://rpubs.com/cyobero/k-means"> rpubs.com </a>
 
 K-means clustering starts by randomly assigning n customers to K clusters and gradually improves the partition by changing the cluster membership of each customer. 
 
-In more details, given a user-specified number of clusters k, the algorithm starts by randomly selecting k points among the n customers that become the centre of the initial cluster. According to the Euclidean distance, each remaining customer is assigned to one of the k cluster centres. After grouping all customers into k clusters, a new cluster "centre" will be calculated, usually as the average value of each cluster variable in each set. And then, based on the distance from these new cluster centres, redistribute each topic. We will stop the iteration when no more redistribution occurs.
+In more detail, given a user-specified number of clusters k, the algorithm starts by randomly selecting k points among the n customers that become the centre of the initial cluster. According to the Euclidean distance, each remaining customer is assigned to one of the k cluster centres. After grouping all customers into k clusters, a new cluster "centre" will be calculated, usually as the average value of each cluster variable in each set. And then, based on the distance from these new cluster centres, redistribute each topic. We will stop the iteration when no more redistribution occurs.
 
 ## eCommerce Customer Segmentation Projects
 
 As mentioned above, based on the RFM metrics, we can group customers and make marketing suggestions. For example, we can offer promotions to re-engage customers who have not recently purchased items. We can further prioritize our promotional strategy by focusing on customers who shop frequently and consume at least the average monetary value.
 
-However, the traditional RFM method requires rank customers manually according to the RFM scores. More complex and less manual processes: k-means clustering analysis can be implemented, so that customer groups have more similar characteristics.
+However, the traditional RFM method requires ranking customers manually according to the RFM scores. More complex and less manual processes: k-means clustering analysis can be implemented, so that customer groups have more similar characteristics.
 
 Therefore, I will create two sub-projects, one only applying the traditional RFM analysis and another one implementing the RFM analysis and then applying the k-means clustering. In turn, we can compare the results of these two approaches. 
 
@@ -71,7 +71,7 @@ Therefore, I will create two sub-projects, one only applying the traditional RFM
 **Data:**
 
 It is usually to find e-commerce data sets in public data as they are usually proprietary. 
-However, the <a href="https://archive.ics.uci.edu/ml/datasets/online+retail "> UCI Machine Learning Repository</a> produced this data set containing actual transactions in 2010 and 2011. The data set is maintained on their website and can be found under the title "Online Retail". This is a multinational data set that contains all the transactions that occurred between 01/12/2010 and 09/12/2011 for non-store online retail registered in the UK. The company mainly sells unique all-occasion gifts. Many The client companies are wholesalers.  
+However, the <a href="https://archive.ics.uci.edu/ml/datasets/online+retail "> UCI Machine Learning Repository</a> produced this data set containing actual transactions in 2010 and 2011. The data set is maintained on their website and can be found under the title "Online Retail". This is a multinational data set that contains all the transactions that occurred between 01/12/2010 and 09/12/2011 for non-store online retail registered in the UK. The company mainly sells unique all-occasion gifts. Many client companies are wholesalers.  
 
 
 **Reference:** 
