@@ -72,13 +72,6 @@ Therefore, I will create two sub-projects, one only applying the traditional RFM
 
 It is often challenging to find publicly available e-commerce datasets as they tend to be proprietary. However, the <a href="https://archive.ics.uci.edu/ml/datasets/online+retail "> UCI Machine Learning Repository</a> offers this dataset, which includes actual transactions spanning 1 year. The dataset is maintained on their website under the title 'Online Retail.' This multinational dataset contains all the transactions that took place between 2010 and 2011 for non-store online retail businesses registered in the UK. The company primarily deals in unique all-occasion gifts, and many of its clients are wholesalers
 
-
-
-
-It is usually to find e-commerce data sets in public data as they are usually proprietary. 
-However, the <a href="https://archive.ics.uci.edu/ml/datasets/online+retail "> UCI Machine Learning Repository</a> produced this data set containing actual transactions in 2010 and 2011. The data set is maintained on their website and can be found under the title "Online Retail". This is a multinational data set that contains all the transactions that occurred between 01/12/2010 and 09/12/2011 for non-store online retail registered in the UK. The company mainly sells unique all-occasion gifts. Many client companies are wholesalers.  
-
-
 **Reference:** 
 
 - Blattberg, R. C., Kim, B.-D., &amp; Neslin, S. A. (2008). Database Marketing Analyzing and Managing Customers. Springer New York. 
